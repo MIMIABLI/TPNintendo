@@ -1,5 +1,6 @@
 package nintendo.test;
 
+import nintendo.model.Boutique;
 import nintendo.model.Console;
 import nintendo.model.Jeu;
 
@@ -12,6 +13,8 @@ public class Test {
 		Jeu jeu3 = new Jeu("titre3", c);
 		Jeu jeu4 = new Jeu("titre4", c);
 		Jeu jeu5 = new Jeu("titre5", c);
+		
+		Boutique boutique = new Boutique("zara", "chatelet");
 	}
 
 }
