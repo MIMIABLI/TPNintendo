@@ -2,6 +2,8 @@ package nintendo.model;
 
 public class Adresse {
 
+	
+	
 	private String numero ;
 	private String ville;
 	private String rue;
@@ -38,10 +40,6 @@ public class Adresse {
 	public String toString() {
 		return "Adresse [numero=" + numero + ", ville=" + ville + ", rue=" + rue + "]";
 	} 
-	
-	
-	
-	
 	
 	
 }
