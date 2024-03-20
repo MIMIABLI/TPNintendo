@@ -1,5 +1,7 @@
 package nintendo.model;
 
+import java.time.LocalDate;
+
 public class Console {
 
 	private String nom;
