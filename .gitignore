@@ -1,0 +1,17 @@
+```
+Creer dans le terminal le fichier : 
+
+touch .gitignore
+
+
+
+Contenu du fichier .gitignore
+
+
+.classpath
+.project
+.settings/
+target/
+.metadata
+.DS_Store
+```
